@@ -24,3 +24,6 @@ III)JavaScript: For the functionality of the web app.
 4. Future Enhancements:
 I)Delete Task: Adding the ability to remove tasks.
 II)Mark as Completed: Adding a feature to mark tasks as completed
+
+ 
+![Screenshot 2024-12-04 144512](https://github.com/user-attachments/assets/d13ada98-df5b-4397-83ba-6b79bc3b096d)
